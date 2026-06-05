@@ -1,0 +1,69 @@
+# Data
+data/*
+!data/.gitkeep
+!data/README.md
+
+# Outputs and logs
+outputs/*
+!outputs/.gitkeep
+*.log
+*.smcl
+*.tmp
+*.temp
+
+# Stata
+*.dta
+*.gph
+*.ster
+*.stpr
+*.bak
+
+# MATLAB
+*.mat
+*.asv
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Office temporary files
+~$*
+*.tmp
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Large local archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
