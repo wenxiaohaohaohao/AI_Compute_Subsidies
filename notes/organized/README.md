@@ -15,3 +15,7 @@
 ## 原始 notes
 
 原始 notes 位于 [../raw](../raw)。本目录不会替代原始 notes；正式写作或引用前，应回到 raw notes 和原始文献、政策文件中核验。
+
+## Review 归档
+
+GPT/Claude/Codex 的 review 与融合建议原文统一归档在 [../review_archive](../review_archive)。正式阅读主线仍以本目录的 `01-08` 为准。
