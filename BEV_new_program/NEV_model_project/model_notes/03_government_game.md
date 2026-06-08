@@ -105,7 +105,8 @@ Under what conditions on $\kappa$, $\chi_s$, $\omega_Y$ is $s^D > s^P$ guarantee
 
 ## 7. Imported previous notes
 
-> Content below imported from `地方政府博弈_notes.md`.
+> Historical source:
+> [`地方政府博弈_notes.md`](../legacy/model_drafts/地方政府博弈_notes.md).
 
 ### 7.1 核心判断
 

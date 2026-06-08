@@ -8,7 +8,7 @@ Evidence from China's NEV Industry
 This file records the current accepted model only.
 Detailed discussions, alternatives, and unresolved issues are stored in module-specific notes.
 
-**Last updated:** 2025-06-07
+**Last updated:** 2026-06-08
 
 ---
 

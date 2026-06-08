@@ -123,7 +123,8 @@ They are jointly determined; each one is a consequence of the policy game, not a
 
 ## 7. Imported previous notes
 
-> Content below imported from `内卷在模型中的位置_notes.md`.
+> Historical source:
+> [`内卷在模型中的位置_notes.md`](../legacy/model_drafts/内卷在模型中的位置_notes.md).
 
 ### 7.1 核心判断
 

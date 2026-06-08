@@ -104,7 +104,9 @@ technology landscape. The Chinese NEV case clearly shows national-level spillove
 
 ## 8. Imported previous notes
 
-> Content below imported from `NEV_产业政策_地方竞争_模型整合notes.md` (Sections 3–8: Environment, Household, Firms, LBD, Product market).
+> Historical source:
+> [`NEV_产业政策_地方竞争_模型整合notes.md`](../legacy/model_drafts/NEV_产业政策_地方竞争_模型整合notes.md),
+> Sections 3-8 (Environment, Household, Firms, LBD, and Product market).
 
 ### 8.1 经济环境 (from 整合 notes Sec. 3)
 

@@ -105,7 +105,11 @@ Linear inverse demand is tractable but may not fit the data well.)*
 
 ## 7. Imported previous notes
 
-> Content below imported from `宏观模型_单一政策wedge_修正版.md` and `NEV_产业政策_地方竞争_模型整合notes.md` (quantification section).
+> Historical sources:
+> [`宏观模型_单一政策wedge_修正版.md`](../legacy/model_drafts/宏观模型_单一政策wedge_修正版.md)
+> and
+> [`NEV_产业政策_地方竞争_模型整合notes.md`](../legacy/model_drafts/NEV_产业政策_地方竞争_模型整合notes.md)
+> (quantification section).
 
 ### 7.1 量化 moments 与数据需求 (from 整合 notes Sec. 14)
 

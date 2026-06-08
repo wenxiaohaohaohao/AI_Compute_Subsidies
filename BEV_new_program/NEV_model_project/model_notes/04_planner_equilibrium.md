@@ -103,7 +103,9 @@ Is capital fully mobile across regions in the baseline?)*
 
 ## 5. Imported previous notes
 
-> Content below imported from `NEV_产业政策_地方竞争_模型整合notes.md` (Sections 9–12: Government, Planner, Equilibrium, Market clearing).
+> Historical source:
+> [`NEV_产业政策_地方竞争_模型整合notes.md`](../legacy/model_drafts/NEV_产业政策_地方竞争_模型整合notes.md),
+> Sections 9-12 (Government, Planner, Equilibrium, and Market clearing).
 
 ### 5.1 市场出清与一般均衡闭合 (from 整合 notes Sec. 11)
 
